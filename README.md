@@ -3,7 +3,8 @@
 
 ---
 ## 📋 Overview
-*This is my internship project—**a deep dive into the distribution of categorical and continuous variables**. The goal of this project is to analyze various datasets, exploring and visualizing the distributions of different types of variables to better understand the data’s structure and relationships.*
+*This is my internship project—**a deep dive into the distribution of categorical and continuous variables**. 
+*The goal of this project is to analyze various datasets, exploring and visualizing the distributions of different types of variables to better understand the data’s structure and relationships.*
 
 
 ## 📑 Table of Contents
@@ -21,7 +22,7 @@
 ### Dataset Overview
 - *The Adult dataset, also known as the Census Income dataset, was originally collected by the U.S. Census Bureau. It contains demographic information about individuals from the United States, and its primary purpose is to predict whether a person earns more than $50K per year based on various attributes. The data comes from the U.S. Census and includes individuals from different regions across the country, representing a sample of U.S. citizens and reflecting socio-economic trends at the time of data collection.*
 
-*The dataset includes 15 columns with both categorical and continuous variables that represent key socio-economic characteristics, such as age, education, occupation, marital status, work hours, and other demographic factors.*
+- *The dataset includes 15 columns with both categorical and continuous variables that represent key socio-economic characteristics, such as age, education, occupation, marital status, work hours, and other demographic factors.*
 
 ### Data Loading
 In this section, we load the dataset into a Pandas DataFrame for further exploration.
