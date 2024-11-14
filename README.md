@@ -66,6 +66,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Open a pull request.
 
 ## 🛡️ License
-This project is open-source and available under the **https://github.com/SnitTeshome/PRODIGY_DS_01**.
+This project is open-source and available under the see the see the [LICENSE](LICENSE) file for more details
 
 ---
