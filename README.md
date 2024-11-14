@@ -1,4 +1,6 @@
-# PRODIGY_DS_01: *Distribution of Categorical and Continuous Variables*
+# PRODIGY_DS_01: 
+## *Distribution of Categorical and Continuous Variables*
+
 ---
 ## 📋 Overview
 *This is my internship project—**a deep dive into the distribution of categorical and continuous variables**. The goal of this project is to analyze various datasets, exploring and visualizing the distributions of different types of variables to better understand the data’s structure and relationships.*
