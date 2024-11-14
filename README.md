@@ -20,7 +20,6 @@
 - *The Adult dataset, also known as the Census Income dataset, was originally collected by the U.S. Census Bureau. It contains demographic information about individuals from the United States, and its primary purpose is to predict whether a person earns more than $50K per year based on various attributes. The data comes from the U.S. Census and includes individuals from different regions across the country, representing a sample of U.S. citizens and reflecting socio-economic trends at the time of data collection.*
 
 *The dataset includes 15 columns with both categorical and continuous variables that represent key socio-economic characteristics, such as age, education, occupation, marital status, work hours, and other demographic factors.*
-### Library Imports
 
 ### Data Loading
 In this section, we load the dataset into a Pandas DataFrame for further exploration.
@@ -65,6 +64,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Open a pull request.
 
 ## 🛡️ License
-This project is open-source and available under the **MIT License**.
+This project is open-source and available under the **https://github.com/SnitTeshome/PRODIGY_DS_01**.
 
 ---
